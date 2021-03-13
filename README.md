@@ -1,10 +1,6 @@
 # MSP432-ADC-Display
 This program uses the Precision ADC module to display an analog voltage on a 7-segment display. (0-3.3V)
 
-Setup:
-
-![image](https://user-images.githubusercontent.com/62213019/111051088-60e11a00-8405-11eb-9c94-2412668cdf4c.png)
-
 Demo:
 https://youtu.be/P6bJy0kSj-o
 
@@ -19,3 +15,6 @@ Program (Running):
 
 ![image](https://user-images.githubusercontent.com/62213019/111051126-abfb2d00-8405-11eb-8494-e5b02360934a.png)
 
+Setup:
+
+![image](https://user-images.githubusercontent.com/62213019/111051088-60e11a00-8405-11eb-9c94-2412668cdf4c.png)
