@@ -11,10 +11,12 @@ system (CS) and Power Supply System (PSS) settings. In the PCMCTL0 register, we 
 active mode request to AM_LDO_VCORE1. This core voltage supports the maximum CPU
 frequency of 48 MHz. We then enable the DCO oscillator and source it to the MCLK. 
 
+Setup:
+
+![image](https://user-images.githubusercontent.com/62213019/111051088-60e11a00-8405-11eb-9c94-2412668cdf4c.png)
+
 Program (Running):
 
 ![image](https://user-images.githubusercontent.com/62213019/111051126-abfb2d00-8405-11eb-8494-e5b02360934a.png)
 
-Setup:
 
-![image](https://user-images.githubusercontent.com/62213019/111051088-60e11a00-8405-11eb-9c94-2412668cdf4c.png)
