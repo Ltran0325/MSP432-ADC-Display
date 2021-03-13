@@ -18,7 +18,7 @@
 #include "msp.h"
 
 // Define digit-bit lookup table
-const uint8_t look_up[17] = {
+const uint8_t look_up[10] = {
 0b11000000,  // 0
 0b11111001,  // 1
 0b10100100,  // 2
@@ -29,13 +29,6 @@ const uint8_t look_up[17] = {
 0b11111000,  // 7
 0b10000000,  // 8
 0b10010000,  // 9
-0b10001000,  // A
-0b10000011,  // b
-0b11000110,  // C
-0b10100001,  // d
-0b10000110,  // E
-0b10001110,  // F
-0b11111111,  // Blank Display
 };
 
 // Define prototypes
